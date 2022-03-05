@@ -1,0 +1,29 @@
+body {
+  background-color: #f7f8fc;
+}
+
+::-webkit-scrollbar {
+  width: 1rem;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #d3d3d3;
+  border-radius: 1rem;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #888;
+}
+
+.darkMode {
+  background-color: #191919;
+}
+
+.darkMode::-webkit-scrollbar-track {
+  background: #191919;
+}
+
+.darkMode::-webkit-scrollbar-thumb {
+  background: #424242;
+  border-radius: 1rem;
+}
