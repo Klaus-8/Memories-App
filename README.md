@@ -1,6 +1,6 @@
 # Memories-App
 
-Project Link : https://memories-bring-back.netlify.app/
+Application Link : https://memories-bring-back.netlify.app/
 
 Don't keep your memorable moments to yourself instead share them with others in our Memories App. Introducing to you the Memories App where you can see memories shared by other people, leave a like and even comment on their memories if you want.
 
